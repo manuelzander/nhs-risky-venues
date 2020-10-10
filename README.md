@@ -2,3 +2,7 @@
 Archiving a history of NHS risky venue alerts
 
 https://distribution-te-prod.prod.svc-test-trace.nhs.uk/distribution/risky-venues
+
+See:
+
+    curl https://distribution-te-prod.prod.svc-test-trace.nhs.uk/distribution/risky-venues | jq
